@@ -59,7 +59,7 @@ This project provides a **multi-disease prediction platform** using trained ML m
 
 1. **Clone this repository**
 ```bash
-git clone https://github.com/yourusername/medical-diagnosis-ai.git
+git clone https://github.com/arshadibrahim882/Medical-Diagnosis-using-AI
 cd medical-diagnosis-ai
 ```
 
