@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# Optionally ignore large model files if you’ll use Git LFS
+# Models/*.sav
